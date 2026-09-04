@@ -1,0 +1,1 @@
+print("Successfully pushed databricks to github")
